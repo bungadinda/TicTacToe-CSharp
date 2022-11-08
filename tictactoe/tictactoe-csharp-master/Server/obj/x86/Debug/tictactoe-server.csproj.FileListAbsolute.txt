@@ -1,0 +1,16 @@
+E:\p.fahim\tictactoe-csharp-master\tictactoe-server\bin\Debug\tictactoe-server.exe
+E:\p.fahim\tictactoe-csharp-master\tictactoe-server\bin\Debug\tictactoe-server.pdb
+E:\p.fahim\tictactoe-csharp-master\tictactoe-server\obj\x86\Debug\tictactoe-server.csprojResolveAssemblyReference.cache
+E:\p.fahim\tictactoe-csharp-master\tictactoe-server\obj\x86\Debug\tictactoe-server.exe
+E:\p.fahim\tictactoe-csharp-master\tictactoe-server\obj\x86\Debug\tictactoe-server.pdb
+D:\My Disc\tictactoe-csharp-master\tictactoe-server\bin\Debug\tictactoe-server.exe
+D:\My Disc\tictactoe-csharp-master\tictactoe-server\bin\Debug\tictactoe-server.pdb
+D:\My Disc\tictactoe-csharp-master\tictactoe-server\obj\x86\Debug\tictactoe-server.csprojResolveAssemblyReference.cache
+D:\My Disc\tictactoe-csharp-master\tictactoe-server\obj\x86\Debug\tictactoe-server.exe
+D:\My Disc\tictactoe-csharp-master\tictactoe-server\obj\x86\Debug\tictactoe-server.pdb
+C:\Users\Bunga Adinda\Downloads\tictactoe\tictactoe-csharp-master\Server\bin\Debug\tictactoe-server.exe
+C:\Users\Bunga Adinda\Downloads\tictactoe\tictactoe-csharp-master\Server\bin\Debug\tictactoe-server.pdb
+C:\Users\Bunga Adinda\Downloads\tictactoe\tictactoe-csharp-master\Server\obj\x86\Debug\tictactoe-server.csproj.AssemblyReference.cache
+C:\Users\Bunga Adinda\Downloads\tictactoe\tictactoe-csharp-master\Server\obj\x86\Debug\tictactoe-server.csproj.CoreCompileInputs.cache
+C:\Users\Bunga Adinda\Downloads\tictactoe\tictactoe-csharp-master\Server\obj\x86\Debug\tictactoe-server.exe
+C:\Users\Bunga Adinda\Downloads\tictactoe\tictactoe-csharp-master\Server\obj\x86\Debug\tictactoe-server.pdb
